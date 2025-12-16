@@ -1,3 +1,5 @@
+# src/main.py
+
 from utils import greet
 
 def main():
