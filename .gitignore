@@ -1,0 +1,9 @@
+
+---
+
+### (2) `.gitignore`
+```gitignore
+__pycache__/
+*.pyc
+.venv/
+.env
